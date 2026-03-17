@@ -1,4 +1,4 @@
-# 🎤 RouMic
+[# 🎤 RouMic
 
 **RouMic** is a real-time web application where users join a virtual street and get a **random chance to perform live** using webcam streaming.
 
@@ -172,6 +172,17 @@ Contributions are welcome. Feel free to fork and improve the project.
 
 ---
 
+## 👥 Team
+
+This project is developed as a collaborative effort.
+
+Contributors
+
+Ishan Dwivedi – Frontend & AI Development
+Vishwajeet Gupta– Backend Development
+
+---
+
 ## 📄 License
 
 This project is open-source and available under the MIT License.
@@ -181,3 +192,4 @@ This project is open-source and available under the MIT License.
 ## 💡 Tagline
 
 **“Get the Mic. Anytime.”**
+](https://github.com/VishwajeetGupta95/RouMic/edit/main/README.md)
