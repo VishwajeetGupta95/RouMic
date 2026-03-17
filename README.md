@@ -41,20 +41,9 @@ It combines **live streaming, randomness, and audience interaction** — like a 
 
 ```
 roumic/
- ├── backend/
- │   └── src/main/java/com/roumic
- │        ├── controller/
- │        ├── service/
- │        ├── model/
- │        ├── websocket/
- │        └── config/
- │
- ├── frontend/
- │   ├── index.html
- │   ├── app.js
- │   └── style.css
- │
- └── README.md
+├── backend/   → signaling (WebSocket)
+├── frontend/  → UI + WebRTC
+└── README.md
 ```
 
 ---
